@@ -1,0 +1,14 @@
+{
+  "name": "suraj",
+  "hobby": ["cricket", "football"],
+  "personalInfo": {
+    "age": 23,
+    "village": "mirjapur",
+    "isAdult": true
+  },
+  "css": {
+    "display": "flex",
+    "backgroundColor": "red",
+    "justifyContent": "space-between"
+  }
+}
